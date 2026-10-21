@@ -1,0 +1,5 @@
+﻿model,params,audio,video,context,p95_ms,cost_per_1k,lora
+Qwen3-Omni-7B,7B,yes,yes,32k,420,0.8,yes
+Omni-30B,30B,yes,yes,64k,1600,3.2,yes
+API-Vision-Pro,closed,no,yes,128k,900,6.0,no
+Small-VL-2B,2B,no,yes,16k,180,0.2,yes

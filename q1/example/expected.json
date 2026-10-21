@@ -1,0 +1,79 @@
+[
+  {
+    "window_id": "V9001:0",
+    "video_id": "V9001",
+    "input": {
+      "video": {
+        "path": "/data/video/V9001.mp4",
+        "start_sec": 0,
+        "end_sec": 180,
+        "padded": false
+      },
+      "text": {
+        "question": "画面中有没有人？",
+        "ask_at_sec": 75
+      }
+    },
+    "label": {
+      "scene": [
+        "图书馆"
+      ],
+      "is_quiet": 1
+    },
+    "to_generate": [
+      "caption",
+      "answer"
+    ],
+    "usable": true
+  },
+  {
+    "window_id": "V9001:180",
+    "video_id": "V9001",
+    "input": {
+      "video": {
+        "path": "/data/video/V9001.mp4",
+        "start_sec": 180,
+        "end_sec": 360,
+        "padded": false
+      },
+      "text": {
+        "question": null,
+        "ask_at_sec": null
+      }
+    },
+    "label": {
+      "scene": [
+        "图书馆"
+      ],
+      "is_quiet": 1
+    },
+    "to_generate": [
+      "caption"
+    ],
+    "usable": true
+  },
+  {
+    "window_id": "V9001:360",
+    "video_id": "V9001",
+    "input": {
+      "video": {
+        "path": "/data/video/V9001.mp4",
+        "start_sec": 360,
+        "end_sec": 540,
+        "padded": true
+      },
+      "text": {
+        "question": null,
+        "ask_at_sec": null
+      }
+    },
+    "label": {
+      "scene": null,
+      "is_quiet": null
+    },
+    "to_generate": [
+      "caption"
+    ],
+    "usable": false
+  }
+]

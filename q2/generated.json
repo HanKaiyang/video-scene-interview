@@ -1,0 +1,406 @@
+{
+  "V1001:0": [
+    {
+      "caption": "画面描述：V1001:0",
+      "answer": "回答：画面里的人在做什么？",
+      "scene": [
+        "办公室"
+      ],
+      "is_quiet": 1,
+      "model_version": "omni-0.3",
+      "confidence": 0.9,
+      "review": "accepted"
+    }
+  ],
+  "V1001:180": [
+    {
+      "caption": "画面描述：V1001:180",
+      "answer": "回答：这里的环境安静吗？",
+      "scene": [
+        "办公室"
+      ],
+      "is_quiet": 1,
+      "model_version": "omni-0.3",
+      "confidence": 0.91,
+      "review": "accepted"
+    }
+  ],
+  "V1001:360": [
+    {
+      "caption": "画面描述：V1001:360",
+      "answer": "这段不该有回答",
+      "scene": [
+        "办公室"
+      ],
+      "is_quiet": 1,
+      "model_version": "omni-0.3",
+      "confidence": 0.92,
+      "review": "accepted"
+    },
+    {
+      "caption": "画面描述：V1001:360",
+      "answer": null,
+      "scene": [
+        "办公室"
+      ],
+      "is_quiet": 1,
+      "model_version": "omni-0.3",
+      "confidence": 0.92,
+      "review": "accepted"
+    }
+  ],
+  "V1001:540": [
+    {
+      "caption": "画面描述：V1001:540",
+      "answer": "回答：画面中有没有人？",
+      "scene": [
+        "办公室"
+      ],
+      "is_quiet": 1,
+      "model_version": "omni-0.3",
+      "confidence": 0.93,
+      "review": "accepted"
+    }
+  ],
+  "V1001:720": [
+    {
+      "caption": "画面描述：V1001:720",
+      "answer": null,
+      "scene": [
+        "办公室"
+      ],
+      "is_quiet": 1,
+      "model_version": "omni-0.3",
+      "confidence": 0.94,
+      "review": "accepted"
+    }
+  ],
+  "V1001:900": [
+    {
+      "caption": "画面描述：V1001:900",
+      "answer": null,
+      "scene": [
+        "办公室"
+      ],
+      "is_quiet": 1,
+      "model_version": "omni-0.3",
+      "confidence": 0.95,
+      "review": "accepted"
+    }
+  ],
+  "V1001:1080": [
+    {
+      "caption": "画面描述：V1001:1080",
+      "answer": null,
+      "scene": [
+        "办公室"
+      ],
+      "is_quiet": 1,
+      "model_version": "omni-0.3",
+      "confidence": 0.96,
+      "review": "accepted"
+    }
+  ],
+  "V1002:0": [
+    {
+      "caption": "画面描述：V1002:0",
+      "answer": "",
+      "scene": [
+        "餐厅"
+      ],
+      "is_quiet": 0,
+      "model_version": "omni-0.3",
+      "confidence": 0.9,
+      "review": "accepted"
+    },
+    {
+      "caption": "画面描述：V1002:0",
+      "answer": "回答：画面里能看到哪些物体？",
+      "scene": [
+        "餐厅"
+      ],
+      "is_quiet": 0,
+      "model_version": "omni-0.3",
+      "confidence": 0.9,
+      "review": "accepted"
+    }
+  ],
+  "V1002:180": [
+    {
+      "caption": "画面描述：V1002:180",
+      "answer": null,
+      "scene": [
+        "餐厅"
+      ],
+      "is_quiet": 0,
+      "model_version": "omni-0.3",
+      "confidence": 0.91,
+      "review": "pending"
+    },
+    {
+      "caption": "画面描述：V1002:180",
+      "answer": null,
+      "scene": [
+        "餐厅"
+      ],
+      "is_quiet": 0,
+      "model_version": "omni-0.3",
+      "confidence": 0.91,
+      "review": "accepted"
+    }
+  ],
+  "V1002:360": [
+    {
+      "caption": "画面描述：V1002:360",
+      "answer": "回答：这个人往哪个方向走？",
+      "scene": [
+        "餐厅"
+      ],
+      "is_quiet": 0,
+      "model_version": "omni-0.3",
+      "confidence": 0.92,
+      "review": "rejected"
+    },
+    {
+      "caption": "画面描述：V1002:360",
+      "answer": "回答：这个人往哪个方向走？",
+      "scene": [
+        "餐厅"
+      ],
+      "is_quiet": 0,
+      "model_version": "omni-0.3",
+      "confidence": 0.92,
+      "review": "accepted"
+    }
+  ],
+  "V1002:540": [
+    null,
+    {
+      "caption": "画面描述：V1002:540",
+      "answer": null,
+      "scene": [
+        "餐厅"
+      ],
+      "is_quiet": 0,
+      "model_version": "omni-0.3",
+      "confidence": 0.93,
+      "review": "accepted"
+    }
+  ],
+  "V1003:0": [
+    {
+      "caption": "画面描述：V1003:0",
+      "answer": null,
+      "scene": [
+        "图书馆"
+      ],
+      "is_quiet": 1,
+      "model_version": "omni-0.3",
+      "confidence": 0.94,
+      "review": "accepted"
+    }
+  ],
+  "V1003:180": [
+    {
+      "caption": "",
+      "answer": "回答：这段画面适合什么场景使用？",
+      "scene": [
+        "图书馆"
+      ],
+      "is_quiet": 1,
+      "model_version": "omni-0.3",
+      "confidence": 0.95,
+      "review": "accepted"
+    },
+    {
+      "caption": "画面描述：V1003:180",
+      "answer": "回答：这段画面适合什么场景使用？",
+      "scene": [
+        "图书馆"
+      ],
+      "is_quiet": 1,
+      "model_version": "omni-0.3",
+      "confidence": 0.95,
+      "review": "accepted"
+    }
+  ],
+  "V1003:360": [
+    {
+      "caption": "画面描述：V1003:360",
+      "answer": null,
+      "scene": [
+        "图书馆",
+        "户外"
+      ],
+      "is_quiet": 1,
+      "model_version": "omni-0.3",
+      "confidence": 0.96,
+      "review": "accepted"
+    }
+  ],
+  "V1003:540": [
+    {
+      "caption": "画面描述：V1003:540",
+      "answer": "回答：画面中有没有人？",
+      "scene": [
+        "户外"
+      ],
+      "is_quiet": 0,
+      "model_version": "omni-0.3",
+      "confidence": 0.9,
+      "review": "pending"
+    },
+    {
+      "caption": "画面描述：V1003:540",
+      "answer": "回答：画面中有没有人？",
+      "scene": [
+        "户外"
+      ],
+      "is_quiet": 0,
+      "model_version": "omni-0.3",
+      "confidence": 0.9,
+      "review": "accepted"
+    }
+  ],
+  "V1003:720": [
+    {
+      "caption": "画面描述：V1003:720",
+      "answer": null,
+      "scene": [
+        "户外"
+      ],
+      "is_quiet": 0,
+      "model_version": "omni-0.3",
+      "confidence": 0.91,
+      "review": "accepted"
+    }
+  ],
+  "V1004:0": [
+    {
+      "caption": "长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长长",
+      "answer": "回答：画面里的人在做什么？",
+      "scene": [
+        "商场"
+      ],
+      "is_quiet": 0,
+      "model_version": "omni-0.3",
+      "confidence": 0.92,
+      "review": "accepted"
+    },
+    {
+      "caption": "画面描述：V1004:0",
+      "answer": "回答：画面里的人在做什么？",
+      "scene": [
+        "商场"
+      ],
+      "is_quiet": 0,
+      "model_version": "omni-0.3",
+      "confidence": 0.92,
+      "review": "accepted"
+    }
+  ],
+  "V1004:180": [
+    {
+      "caption": "画面描述：V1004:180",
+      "answer": null,
+      "scene": [
+        "商场"
+      ],
+      "is_quiet": 0,
+      "model_version": "omni-0.3",
+      "confidence": 0.93,
+      "review": "accepted"
+    }
+  ],
+  "V1004:360": [
+    {
+      "caption": "画面描述：V1004:360",
+      "answer": null,
+      "scene": [
+        "商场"
+      ],
+      "is_quiet": 0,
+      "model_version": "omni-0.3",
+      "confidence": 0.94,
+      "review": "accepted"
+    }
+  ],
+  "V1004:540": [
+    {
+      "caption": "画面描述：V1004:540",
+      "answer": null,
+      "scene": [
+        "商场"
+      ],
+      "is_quiet": 0,
+      "model_version": "omni-0.3",
+      "confidence": 0.95,
+      "review": "accepted"
+    }
+  ],
+  "V1005:0": [
+    {
+      "caption": "画面描述：V1005:0",
+      "answer": "回答：这段画面适合什么场景使用？",
+      "scene": [
+        "公共场合"
+      ],
+      "is_quiet": 1,
+      "model_version": "omni-0.3",
+      "confidence": 0.96,
+      "review": "accepted"
+    }
+  ],
+  "V1005:180": [
+    {
+      "caption": "画面描述：V1005:180",
+      "answer": null,
+      "scene": [
+        "公共场合"
+      ],
+      "is_quiet": 1,
+      "model_version": "omni-0.3",
+      "confidence": 0.9,
+      "review": "accepted"
+    }
+  ],
+  "V1005:360": [
+    {
+      "caption": "画面描述：V1005:360",
+      "answer": null,
+      "scene": [
+        "居家"
+      ],
+      "is_quiet": 1,
+      "model_version": "omni-0.3",
+      "confidence": 0.91,
+      "review": "accepted"
+    }
+  ],
+  "V1006:0": [
+    {
+      "caption": "画面描述：V1006:0",
+      "answer": "回答：这里的环境安静吗？",
+      "scene": [
+        "居家"
+      ],
+      "is_quiet": 1,
+      "model_version": "omni-0.3",
+      "confidence": 0.92,
+      "review": "accepted"
+    }
+  ],
+  "V1006:180": [
+    {
+      "caption": "画面描述：V1006:180",
+      "answer": null,
+      "scene": [
+        "居家"
+      ],
+      "is_quiet": 1,
+      "model_version": "omni-0.3",
+      "confidence": 0.93,
+      "review": "accepted"
+    }
+  ]
+}
